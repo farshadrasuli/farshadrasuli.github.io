@@ -1,3 +1,3 @@
 <p dir="rtl">
-  &#x202c; under construction… / &#x202b; در دست ساخت…
+در دست ساخت… / &#x202C; …under construction
 </p>
